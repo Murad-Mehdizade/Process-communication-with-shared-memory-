@@ -1,0 +1,8 @@
+de/uniba/wiai/dsg/pks/assignment1/HighlevelHistogramServiceTests.java
+ de.uniba.wiai.dsg.pks.assignment1.HighlevelHistogramServiceTests
+de/uniba/wiai/dsg/pks/assignment1/SequentialHistogramServiceTests.java
+ de.uniba.wiai.dsg.pks.assignment1.SequentialHistogramServiceTests
+de/uniba/wiai/dsg/pks/assignment1/AbstractHistogramServiceTests.java
+ de.uniba.wiai.dsg.pks.assignment1.AbstractHistogramServiceTests
+de/uniba/wiai/dsg/pks/assignment1/LowlevelHistogramServiceTests.java
+ de.uniba.wiai.dsg.pks.assignment1.LowlevelHistogramServiceTests

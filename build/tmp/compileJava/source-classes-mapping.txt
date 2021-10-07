@@ -1,0 +1,38 @@
+de/uniba/wiai/dsg/pks/assignment/model/Histogram.java
+ de.uniba.wiai.dsg.pks.assignment.model.Histogram
+de/uniba/wiai/dsg/pks/assignment/console/SyncConsoleExecutor.java
+ de.uniba.wiai.dsg.pks.assignment.console.SyncConsoleExecutor
+de/uniba/wiai/dsg/pks/assignment/model/HistogramServiceException.java
+ de.uniba.wiai.dsg.pks.assignment.model.HistogramServiceException
+de/uniba/wiai/dsg/pks/assignment/model/Service.java
+ de.uniba.wiai.dsg.pks.assignment.model.Service
+de/uniba/wiai/dsg/pks/assignment1/histogram/sequential/SequentialHistogramService.java
+ de.uniba.wiai.dsg.pks.assignment1.histogram.sequential.SequentialHistogramService
+de/uniba/wiai/dsg/pks/assignment/shared/HistogramExecutor.java
+ de.uniba.wiai.dsg.pks.assignment.shared.HistogramExecutor
+de/uniba/wiai/dsg/pks/assignment/gui/AsyncInterruptableExecutor.java
+ de.uniba.wiai.dsg.pks.assignment.gui.AsyncInterruptableExecutor
+ de.uniba.wiai.dsg.pks.assignment.gui.AsyncInterruptableExecutor$1
+ de.uniba.wiai.dsg.pks.assignment.gui.AsyncInterruptableExecutor$2
+de/uniba/wiai/dsg/pks/assignment/model/Result.java
+ de.uniba.wiai.dsg.pks.assignment.model.Result
+de/uniba/wiai/dsg/pks/assignment/model/HistogramService.java
+ de.uniba.wiai.dsg.pks.assignment.model.HistogramService
+de/uniba/wiai/dsg/pks/assignment1/histogram/threaded/lowlevel/LowlevelHistogramService.java
+ de.uniba.wiai.dsg.pks.assignment1.histogram.threaded.lowlevel.LowlevelHistogramService
+de/uniba/wiai/dsg/pks/assignment/shared/Stopwatch.java
+ de.uniba.wiai.dsg.pks.assignment.shared.Stopwatch
+de/uniba/wiai/dsg/pks/assignment1/histogram/threaded/highlevel/HighlevelHistogramService.java
+ de.uniba.wiai.dsg.pks.assignment1.histogram.threaded.highlevel.HighlevelHistogramService
+de/uniba/wiai/dsg/pks/assignment/Main.java
+ de.uniba.wiai.dsg.pks.assignment.Main
+de/uniba/wiai/dsg/pks/assignment/gui/ExecutionsGUIModel.java
+ de.uniba.wiai.dsg.pks.assignment.gui.ExecutionsGUIModel
+de/uniba/wiai/dsg/pks/assignment/gui/ExecutionsGUIView.java
+ de.uniba.wiai.dsg.pks.assignment.gui.ExecutionsGUIView
+ de.uniba.wiai.dsg.pks.assignment.gui.ExecutionsGUIView$1
+ de.uniba.wiai.dsg.pks.assignment.gui.ExecutionsGUIView$2
+de/uniba/wiai/dsg/pks/assignment/gui/HistogramApplication.java
+ de.uniba.wiai.dsg.pks.assignment.gui.HistogramApplication
+de/uniba/wiai/dsg/pks/assignment/gui/ExecutionsGUIController.java
+ de.uniba.wiai.dsg.pks.assignment.gui.ExecutionsGUIController
